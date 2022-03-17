@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ajithvnr2001 
-Dickens-odera
-/
-Hotel-Booking-Dapp
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Hotel-Booking-Dapp/truffle-config.js /
-@Dickens-odera
-Dickens-odera feat: added polygonscn contract verification
-Latest commit 3636274 on Jan 17
- History
- 1 contributor
-134 lines (128 sloc)  5.21 KB
-   
 /**
  * Use this file to configure your truffle project. It's seeded with some
  * common settings for different networks and features like migrations,
@@ -160,16 +132,3 @@ module.exports = {
     enabled: false
   }
 };
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
